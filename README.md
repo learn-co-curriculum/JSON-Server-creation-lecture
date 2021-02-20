@@ -97,7 +97,9 @@ PATCH  /animals/:id
 DELETE /animals/:id
 ```
 
-Discuss different endpoints, Spend more time on GET and POST, PATCH, and DELETE endpoints can discuss later in detail. 
+Discuss different endpoints, Spend more time on `GET`. 
+
+`POST`, `PATCH`, and `DELETE` endpoints can discuss later in detail. 
 
 
 ## `GET` request from POSTMAN
